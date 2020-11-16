@@ -1,4 +1,4 @@
-# Template2D-Unity202015f1
+# 02-inclass-NumberWizard-DDAN
 
 ### Project description: 
 Introduction/Project summary 
